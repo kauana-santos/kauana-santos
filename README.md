@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Kauana
 
 - Futura dev front-end
-- Estudando Javasacript
+- Estudando Javasacript e Tailwind CSS
 
 <div>
   <a href="https://github.com/kauana-santos">
