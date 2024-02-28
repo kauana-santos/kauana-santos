@@ -1,11 +1,12 @@
 ## Olá! Eu sou a Kauana
 
-- Futura dev front-end
-- Estudando Javasacript e Tailwind CSS
+- Futura dev web
+- Análise e desenvolvimento de sistemas
+- Estudando Javasacript
 
 <div>
   <a href="https://github.com/kauana-santos">
-  <img heigth="50%" src="https://github-readme-stats.vercel.app/api?username=kauana-santos&show_icons=true&theme=dark"/>
+<!--   <img heigth="50%" src="https://github-readme-stats.vercel.app/api?username=kauana-santos&show_icons=true&theme=dark"/> -->
   <img heigth="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauana-santos&layout=compact&theme=dark"/>
 </div>
 
