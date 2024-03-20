@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Kauana
 
-- Futura dev web
+- Futura dev front-end
 - Análise e desenvolvimento de sistemas
 - Estudando Javasacript
 
