@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Kauana
 
-- Futura dev front-end
+- Dev front-end
 - Análise e desenvolvimento de sistemas
-- Estudando Javasacript
+- Estudando Javasacript 
 
 <div>
   <a href="https://github.com/kauana-santos">
