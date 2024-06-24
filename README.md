@@ -2,7 +2,6 @@
 
 - Dev front-end
 - Análise e desenvolvimento de sistemas
-- Estudando Javasacript 
 
 <div>
   <a href="https://github.com/kauana-santos">
@@ -14,5 +13,6 @@
   <img align="center" alt="HTML-logo" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   <img align="center" alt="CSS-logo" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
   <img align="center" alt="Javascript-logo" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-
+  <img align="center" alt="JQuery" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
+          
 </div>
