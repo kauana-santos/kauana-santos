@@ -1,6 +1,5 @@
-## Olá! Eu sou a Kauana
+## Olá!
 
-- Dev front-end
 - Análise e desenvolvimento de sistemas
 
 <div>
