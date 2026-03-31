@@ -2,11 +2,7 @@
 
 - Análise e desenvolvimento de sistemas
 
-<div>
-  <a href="https://github.com/kauana-santos">
-   <img heigth="50%" src="https://github-readme-stats.vercel.app/api?username=kauana-santos&show_icons=true&theme=dark"/> 
-  
-</div>
+
 
 <div style="display: inline-block"><br>
   <img align="center" alt="HTML-logo" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
