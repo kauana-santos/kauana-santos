@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/kauana-santos">
-<!--   <img heigth="50%" src="https://github-readme-stats.vercel.app/api?username=kauana-santos&show_icons=true&theme=dark"/> -->
-  <img heigth="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauana-santos&layout=compact&theme=dark"/>
+   <img heigth="50%" src="https://github-readme-stats.vercel.app/api?username=kauana-santos&show_icons=true&theme=dark"/> 
+  
 </div>
 
 <div style="display: inline-block"><br>
